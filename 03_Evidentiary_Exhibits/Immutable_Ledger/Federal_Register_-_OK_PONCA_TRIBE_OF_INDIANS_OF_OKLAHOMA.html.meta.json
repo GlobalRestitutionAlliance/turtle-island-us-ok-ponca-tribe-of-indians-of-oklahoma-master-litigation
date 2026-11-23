@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=OK+PONCA+TRIBE+OF+INDIANS+OF+OKLAHOMA",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=OK+PONCA+TRIBE+OF+INDIANS+OF+OKLAHOMA",
+  "title": "Federal Register - OK PONCA TRIBE OF INDIANS OF OKLAHOMA",
+  "fetched_at": "2026-11-23T18:11:26.696118Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 229320,
+  "sha256": "18b3cd57f113b4aa641a7c47f3a3db52451119b421e4f565ee06a2c71e968e4a",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
